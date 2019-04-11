@@ -11,6 +11,7 @@ public class Card {
 	private int num;
 	/**
 	 * this is the basic card class
+         * added a second comment line
 	 */
 	
 	public Card(int n) {
