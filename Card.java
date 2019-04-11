@@ -5,6 +5,8 @@
 /**
  * @author pdesanct
  *
+ * Added comment line by bakerjd
+ *
  */
 public class Card {
 
