@@ -10,7 +10,7 @@ public class Card {
 
 	private int num;
 	/**
-	 * 
+	 * this is the basic card class
 	 */
 	
 	public Card(int n) {
