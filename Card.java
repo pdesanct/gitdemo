@@ -5,7 +5,7 @@
 /**
  * @author pdesanct
  *
- * Added comment line by bakerjd
+ * Added comment line by bakerjd changed by pdesanct
  *
  */
 public class Card {
